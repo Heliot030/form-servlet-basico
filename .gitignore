@@ -1,0 +1,13 @@
+apache-tomcat-11.0.9/logs/
+
+# Archivos temporales de Java
+*.class
+
+# Carpetas de compilación
+/target/
+/build/
+
+# Archivos y carpetas de IDEs
+*.iml
+.idea/
+*.log
