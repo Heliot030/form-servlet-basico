@@ -4,3 +4,16 @@
 127.0.0.1 - - [22/Jul/2025:09:39:01 -0600] "GET /favicon.ico HTTP/1.1" 200 8192
 127.0.0.1 - admin [22/Jul/2025:09:39:31 -0600] "PUT /manager/text/deploy?path=%2FWebapp-Form&update=true HTTP/1.1" 200 82
 127.0.0.1 - - [22/Jul/2025:09:39:33 -0600] "GET /Webapp-Form/ HTTP/1.1" 200 2213
+127.0.0.1 - admin [22/Jul/2025:13:48:41 -0600] "PUT /manager/text/deploy?path=%2FWebapp-Form&update=true HTTP/1.1" 200 82
+127.0.0.1 - - [22/Jul/2025:13:48:45 -0600] "GET /Webapp-Form HTTP/1.1" 302 -
+127.0.0.1 - - [22/Jul/2025:13:48:45 -0600] "GET /Webapp-Form/ HTTP/1.1" 200 2213
+127.0.0.1 - - [22/Jul/2025:13:48:45 -0600] "GET /favicon.ico HTTP/1.1" 200 8192
+127.0.0.1 - - [22/Jul/2025:13:49:18 -0600] "POST /Webapp-Form/registro HTTP/1.1" 200 389
+127.0.0.1 - - [22/Jul/2025:13:49:26 -0600] "POST /Webapp-Form/registro HTTP/1.1" 200 389
+127.0.0.1 - - [22/Jul/2025:13:49:32 -0600] "POST /Webapp-Form/registro HTTP/1.1" 200 389
+127.0.0.1 - admin [22/Jul/2025:13:51:46 -0600] "PUT /manager/text/deploy?path=%2FWebapp-Form&update=true HTTP/1.1" 200 82
+127.0.0.1 - - [22/Jul/2025:13:51:50 -0600] "GET /Webapp-Form HTTP/1.1" 302 -
+127.0.0.1 - - [22/Jul/2025:13:52:23 -0600] "POST /Webapp-Form/registro HTTP/1.1" 200 485
+127.0.0.1 - admin [22/Jul/2025:13:58:34 -0600] "PUT /manager/text/deploy?path=%2FWebapp-Form&update=true HTTP/1.1" 200 82
+127.0.0.1 - - [22/Jul/2025:13:58:43 -0600] "GET /Webapp-Form HTTP/1.1" 302 -
+127.0.0.1 - - [22/Jul/2025:13:59:19 -0600] "POST /Webapp-Form/registro HTTP/1.1" 200 538
