@@ -66,7 +66,7 @@ if(errores != null && errores.size()>0){
 
       <label for="pais" class="col-form-label col-sm-2"> Pais </label>
       <div class="col-sm-4">
-        <select name="pais "id = "pais" class="form-select">
+        <select name="pais"id = "pais" class="form-select">
           <option value="">--selecionar ---</option>
           <option value="ES" ${param.pais.equals("ES") ? "select":""}>--Españana ---</option>
           <option value="MX" ${param.pais.equals("MX") ? "select":""}>--Mexico ---</option>
